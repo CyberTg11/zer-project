@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zer-project/static/css/main.6f4cd868.css",
+    "main.js": "/zer-project/static/js/main.554c25a1.js",
+    "static/js/787.6fd08d5e.chunk.js": "/zer-project/static/js/787.6fd08d5e.chunk.js",
+    "index.html": "/zer-project/index.html",
+    "main.6f4cd868.css.map": "/zer-project/static/css/main.6f4cd868.css.map",
+    "main.554c25a1.js.map": "/zer-project/static/js/main.554c25a1.js.map",
+    "787.6fd08d5e.chunk.js.map": "/zer-project/static/js/787.6fd08d5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f4cd868.css",
+    "static/js/main.554c25a1.js"
+  ]
+}
